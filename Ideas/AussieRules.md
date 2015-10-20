@@ -5,6 +5,12 @@ Australian Rules Statistics
 --
 - A Journey of Statisical Proportions
 - Basic Routing
+
+
+  - `api`
+
+
+
   - `api/player/{id}`
   - `api/game/{year}/{round}/`
   - `api/team/{code}` aka `HAW`
